@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\bin\Debug\net5.0\TIc-Tac-Toe.exe
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\bin\Debug\net5.0\TIc-Tac-Toe.deps.json
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\bin\Debug\net5.0\TIc-Tac-Toe.runtimeconfig.json
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\bin\Debug\net5.0\TIc-Tac-Toe.runtimeconfig.dev.json
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\bin\Debug\net5.0\TIc-Tac-Toe.dll
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\bin\Debug\net5.0\ref\TIc-Tac-Toe.dll
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\bin\Debug\net5.0\TIc-Tac-Toe.pdb
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\TIc-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\TIc-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\TIc-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\TIc-Tac-Toe.AssemblyInfo.cs
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\TIc-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\TIc-Tac-Toe.dll
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\ref\TIc-Tac-Toe.dll
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\TIc-Tac-Toe.pdb
+C:\Users\anand\Desktop\TIc-Tac-Toe\TIc-Tac-Toe\obj\Debug\net5.0\TIc-Tac-Toe.genruntimeconfig.cache
